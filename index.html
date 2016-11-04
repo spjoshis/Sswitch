@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sswitch Demo</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body>
+	<input type="checkbox" name="checkboxName" class="checkbox" />
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/Sswitch.js"></script>
+	<script>
+		$(document).ready(function(){
+			$(".checkbox").Sswitch({
+				onSwitchChange: function() {
+				    // Your magic
+				}
+			});
+		});
+	</script>
+</body>
+</html>
