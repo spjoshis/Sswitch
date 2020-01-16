@@ -1,6 +1,5 @@
 # Sswitch
 Author : Gopal Joshi<br>
-Website: www.sgeek.org<br>
 Plugin : sScroll<br>
 Description: sSwitch is toggle switch. Turn checkboxes and radio buttons into toggle switches. <br>
 Tutorial: http://sgeek.org/jquery-toggle-button-plugin-for-sliding-toggle-switches-sswitch/<br>
